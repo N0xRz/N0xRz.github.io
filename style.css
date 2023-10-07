@@ -11,8 +11,8 @@ color: red;
 
 .top-right {
 position: absolute;
-bottom: 2000px;
-left: 600px;
+bottom: 83%;
+left: 32%;
 }
 
 img {src: url(Imagini/fericiti.jpg);
@@ -28,8 +28,8 @@ color:red;
 
 .top-left {
 position: absolute;
-bottom: 1200px;
-left: 600px;
+bottom: 80%;
+left: 35%;
 }
 
 
@@ -41,26 +41,34 @@ color:red;
 
 .bottom-left {
 position: absolute;
-bottom: 50px;
-left: 600px;
+bottom: -5%;
+left: 35%;
 }
  
 
 .RLNContainer {
 position: relative;
-bottom: 1860px;
-left: 920px;
-right: 0px;
+bottom: 1835px;
+left: 71%;
 }
 .bottom-right {
 position: relative;
 text-align: bottom;
-left: 0.2%;
+left: -3%;
 color: red;
 }
 
 .DiscordContainer {
 position: fixed;
-bottom: -0.4%;
+bottom: -0.5%;
 right: 0%;
 }
+
+.PATCH {
+position: relative;
+text-align: bottom;
+bottom: 1500px;
+left: -30%;
+}
+
+
